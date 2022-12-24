@@ -1,0 +1,31 @@
+@media only screen and (min-width: 992px) {
+    section.card{
+        flex-direction: row-reverse;
+        width: 900px;
+        height: 55vh;
+        text-align: left;
+    }
+    section.card > div.card-img{
+        height: 100%;
+        width: 100%;
+        position: relative;
+        background: url('../images/image-header-desktop.jpg') no-repeat;
+        background-size: cover;
+        border-radius: 0px 10px 10px 0px;
+    }
+    section.card div.card-content{
+        height: 100%;
+        width: 100%;
+        position: relative;
+    }
+    section.status{
+        display: flex;
+        flex-direction: row;
+        text-align: left;
+        justify-content: space-between;
+        width: 70%;
+    }
+    section.card div.card-content > h1{
+        width: 70%;
+    }
+}
