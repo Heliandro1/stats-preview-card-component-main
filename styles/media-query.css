@@ -11,6 +11,9 @@
         position: relative;
         background: url('../images/image-header-desktop.jpg') no-repeat;
         background-size: cover;
+        background-color: hsl(277, 64%, 61%);
+        background-blend-mode: multiply;
+        opacity: 0.8;
         border-radius: 0px 10px 10px 0px;
     }
     section.card div.card-content{
@@ -31,7 +34,7 @@
 }
 @media only screen and (max-width: 320px) {
     section.card{
-        width: 300px;
+        max-width: 300px;
     }
     section.card div.card-content{
         height: calc(100% - 257px);

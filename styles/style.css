@@ -30,6 +30,9 @@ section.card > div.card-img{
     width: 100%;
     background: url('../images/image-header-mobile.jpg') no-repeat;
     background-size: cover;
+    background-color: hsl(277, 64%, 61%);
+    background-blend-mode: multiply;
+    opacity: 0.8;
     position: absolute;
     top: 0;
     border-radius: 10px 10px 0px 0px;
