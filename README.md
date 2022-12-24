@@ -19,12 +19,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/desktop.png)
+![](./images/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/Heliandro1/stats-preview-card-component-main)
+- Live Site URL: [here](https://preview-card-component-three.vercel.app/)
 
 ### Built with
 
@@ -32,7 +33,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
 
 ## Author
 
